@@ -1,6 +1,7 @@
 package com.pakt_games
 
 import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
 
-class Application : Application() {
-}
+@HiltAndroidApp
+class Application : Application()
