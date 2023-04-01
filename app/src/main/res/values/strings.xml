@@ -2,4 +2,7 @@
     <string name="app_name">CropImageExample</string>
     <string name="save">Save</string>
     <string name="rotation_value">Click to change rotation: %1$s</string>
+    <string name="sample_using_cropimageview">Sample using CropImageView</string>
+    <string name="sample_of_customactivity">Sample of CustomActivity</string>
+    <string name="sample_calling_cropimage">Sample calling CropImage</string>
 </resources>
