@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CropImageExample</string>
+    <string name="save">Save</string>
+    <string name="rotation_value">Click to change rotation: %1$s</string>
 </resources>
